@@ -7,4 +7,5 @@ Come up with and answer 10 questions about your data while using MySQL queries f
 
 
 TODO: Perform a statisitcal analysis on some of the questions asked.
+
 TODO: Could write a small classification model for CANDIDATE KOI's being CONFIRMED or FALSE POSITIVES
